@@ -7,4 +7,4 @@
 Thanks for checking out this front-end coding challenge.
 This project challenges your css skills mainly 
 
-DEMO HERE ![live](https://azr-arch.github.io/chat-app-css-illustration-master/)
+DEMO HERE [live](https://azr-arch.github.io/chat-app-css-illustration-master/).
